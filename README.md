@@ -1,4 +1,4 @@
 # Tic_Tac_Toe
 
 
-javascript mini projct for practiising
+javascript mini projct for practise
